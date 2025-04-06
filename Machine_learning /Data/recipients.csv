@@ -1,0 +1,202 @@
+Recipient_ID,Age,Blood_Type,Organ_Type,HLA_Typing_Requirement,BMI,Infection_Status,Urgency_Level,Waiting_Time,Geographic_Location,Health_Conditions
+R001,23,B+,Lung,"B1, DR1, DR3",26.92,None,Low,85,"Balangir, Odisha",Cardiovascular
+R002,56,B+,Heart,"A1, A2, DR2",25.22,Hepatitis-negative,Medium,133,"Bokaro, Jharkhand",Asthma
+R003,36,O+,Heart,"DR2, B1, DR3",28.83,Hepatitis-negative,Low,21,"Kanchipuram, Tamil Nadu",None
+R004,54,AB+,Kidney,"DR1, A1, B2",30.31,None,Low,215,"Gandhinagar, Gujarat",Cardiovascular
+R005,22,B+,Liver,"B2, B1, DR1",28,None,High,294,"Hoshiarpur, Punjab",Cardiovascular
+R006,67,B-,Heart,"B1, DR2, A2",33.85,HIV-negative,High,85,"Puri, Odisha",Cardiovascular
+R007,31,A+,Kidney,"DR1, DR2, B1",18.84,None,Medium,137,"Ambikapur, Chhattisgarh",Asthma
+R008,41,O-,Kidney,"DR2, B1, A2",31.45,Hepatitis-negative,Medium,136,"Jalgaon, Maharashtra",Asthma
+R009,53,AB-,Kidney,"DR3, B2, A2",26.01,Hepatitis-negative,Low,21,"Alappuzha, Kerala",Asthma
+R010,49,O-,Heart,"DR2, B2, A2",20.74,HIV-negative,Low,71,"Ambala, Haryana",Asthma
+R011,65,O-,Liver,"DR3, A2, B1",33.36,HIV-negative,Low,255,"Kochi, Kerala",Cardiovascular
+R012,45,A-,Heart,"B1, DR3, A2",21.35,HIV-negative,Low,346,"Dhaulpur, Rajasthan",Diabetes
+R013,50,O+,Kidney,"A2, DR2, B1",30.92,HIV-negative,Low,186,"Bhandara, Maharashtra",Diabetes
+R014,34,B-,Kidney,"A2, DR2, DR3",27.83,None,Medium,210,"Visakhapatnam, Andhra Pradesh",Cardiovascular
+R015,34,B-,Liver,"B2, DR3, A1",31.06,None,Low,148,"Vatakara, Kerala",Hypertension
+R016,40,B-,Heart,"DR2, B2, DR3",32.85,None,High,280,"Bilaspur, Himachal Pradesh",Diabetes
+R017,65,A+,Kidney,"B1, A2, DR3",31.47,Hepatitis-negative,High,239,"Bengaluru, Karnataka",Diabetes
+R018,60,O-,Heart,"B2, A1, B1",21.27,Hepatitis-negative,Low,52,"Bilaspur, Himachal Pradesh",Asthma
+R019,20,AB-,Lung,"DR3, DR1, B1",21.35,Hepatitis-negative,Low,228,"Ara, Bihar",Asthma
+R020,56,AB+,Kidney,"DR3, DR2, B1",20.84,None,Low,100,"Srinagar, Jammu and Kashmir",Cardiovascular
+R021,51,B-,Lung,"B1, DR3, B2",30.45,Hepatitis-negative,High,242,"Kendujhar, Odisha",Cardiovascular
+R022,50,B+,Kidney,"B1, A1, DR2",29.52,HIV-negative,Medium,322,"Ambikapur, Chhattisgarh",Diabetes
+R023,26,AB+,Liver,"A1, A2, DR1",21.01,None,Medium,45,"Kollam, Kerala",Hypertension
+R024,65,B-,Kidney,"DR2, B1, A2",34.26,None,Medium,196,"Baleshwar, Odisha",Asthma
+R025,34,AB-,Liver,"A2, DR3, DR1",31.91,Hepatitis-negative,High,242,"Visakhapatnam, Andhra Pradesh",Cardiovascular
+R026,50,AB-,Lung,"A1, DR2, DR1",34.26,None,Low,113,"Puri, Odisha",Hypertension
+R027,37,AB-,Heart,"B1, A1, B2",31.64,None,High,116,"Ara, Bihar",None
+R028,41,AB-,Kidney,"B1, A2, A1",26.59,HIV-negative,High,197,"Bilaspur, Himachal Pradesh",Cardiovascular
+R029,30,AB+,Heart,"DR1, DR2, A1",31.85,Hepatitis-negative,Medium,122,"Shillong, Meghalaya",Diabetes
+R030,31,O+,Liver,"B2, A1, B1",25.48,None,High,124,"Tiruppur, Tamil Nadu",Asthma
+R031,37,B+,Liver,"DR2, DR1, DR3",25.87,Hepatitis-negative,Low,100,"Bilaspur, Himachal Pradesh",Asthma
+R032,46,O+,Kidney,"DR3, DR2, B1",30.19,HIV-negative,High,204,"Puri, Odisha",Asthma
+R033,45,B-,Lung,"DR3, A1, DR1",28.85,HIV-negative,High,20,"Dhaulpur, Rajasthan",Asthma
+R034,56,A-,Lung,"B2, DR3, B1",27.03,Hepatitis-negative,Medium,94,"Anantnag, Jammu and Kashmir",Diabetes
+R035,43,O+,Liver,"B2, DR2, A1",30.1,Hepatitis-negative,Low,265,"Pune, Maharashtra",Asthma
+R036,64,B+,Lung,"B1, DR2, A1",32.25,Hepatitis-negative,Medium,211,"Chamba, Himachal Pradesh",Hypertension
+R037,41,A+,Heart,"A1, A2, B2",24.98,None,Low,199,"Madurai, Tamil Nadu",Cardiovascular
+R038,32,O-,Kidney,"A2, DR1, A1",26.26,None,Low,101,"Bhandara, Maharashtra",Hypertension
+R039,29,AB-,Heart,"B1, A1, A2",22.51,HIV-negative,Medium,350,"Chaibasa, Jharkhand",Asthma
+R040,60,B-,Lung,"B1, A2, A1",34.5,HIV-negative,High,311,"Visakhapatnam, Andhra Pradesh",None
+R041,23,O+,Kidney,"A2, A1, DR1",34.21,None,Medium,69,"Ajmer, Rajasthan",None
+R042,20,A-,Kidney,"DR1, DR3, B1",28.37,Hepatitis-negative,High,158,"Bengaluru, Karnataka",Asthma
+R043,33,AB-,Liver,"DR1, B2, DR3",18.21,Hepatitis-negative,Medium,310,"Balangir, Odisha",Hypertension
+R044,44,A-,Heart,"DR1, A1, B1",18.98,None,Medium,91,"Idukki, Kerala",Cardiovascular
+R045,23,A+,Heart,"DR1, B2, B1",30.61,Hepatitis-negative,Low,161,"Madurai, Tamil Nadu",None
+R046,48,B-,Lung,"B1, DR2, DR1",28.99,Hepatitis-negative,Low,270,"Cherrapunji, Meghalaya",Cardiovascular
+R047,56,A-,Heart,"A2, B1, DR3",34.09,Hepatitis-negative,Low,345,"Firozpur, Punjab",Diabetes
+R048,53,AB+,Heart,"DR2, DR1, B2",25.74,HIV-negative,Medium,49,"Firozpur, Punjab",Diabetes
+R049,41,AB-,Heart,"B1, A1, B2",26,HIV-negative,High,2,"Kanchipuram, Tamil Nadu",Cardiovascular
+R050,28,O-,Kidney,"DR1, B2, DR3",22.87,None,Low,266,"Nagappattinam, Tamil Nadu",Hypertension
+R051,64,AB-,Liver,"B2, A2, DR1",27.07,None,High,134,"Balaghat, Madhya Pradesh",Hypertension
+R052,24,AB+,Heart,"DR1, A1, B2",28.52,None,High,248,"Bhojpur, Madhya Pradesh",Cardiovascular
+R053,39,O+,Kidney,"B1, DR2, DR3",32.67,Hepatitis-negative,Medium,324,"Alappuzha, Kerala",Cardiovascular
+R054,65,O+,Lung,"A1, DR1, B1",34.18,Hepatitis-negative,High,132,"Bhandara, Maharashtra",Diabetes
+R055,56,B+,Kidney,"A2, DR2, DR1",22.09,None,Medium,208,"Cherrapunji, Meghalaya",None
+R056,64,B+,Kidney,"B1, A2, B2",31.59,Hepatitis-negative,Low,360,"Cherrapunji, Meghalaya",Cardiovascular
+R057,64,O+,Heart,"DR3, A2, B1",19.03,None,Medium,209,"Shillong, Meghalaya",Hypertension
+R058,27,O+,Heart,"B2, DR2, B1",31.76,HIV-negative,High,214,"Balaghat, Madhya Pradesh",Hypertension
+R059,19,B+,Liver,"B1, DR3, A2",19.05,HIV-negative,High,268,"Srinagar, Jammu and Kashmir",Asthma
+R060,23,A+,Kidney,"DR1, DR3, A2",28.45,Hepatitis-negative,High,138,"Jalandhar, Punjab",None
+R061,60,B+,Liver,"A1, DR2, DR3",28.17,None,Low,69,"Kohima, Nagaland",Asthma
+R062,43,A+,Liver,"DR3, B2, DR1",33.78,HIV-negative,Medium,207,"Chittaurgarh, Rajasthan",Hypertension
+R063,33,AB+,Heart,"A1, B1, DR3",31.95,Hepatitis-negative,Medium,345,"Pune, Maharashtra",Diabetes
+R064,45,A+,Heart,"B2, B1, DR2",23.03,HIV-negative,High,216,"Patiala, Punjab",None
+R065,18,AB-,Liver,"B2, B1, DR1",21.54,HIV-negative,Medium,106,"Guwahati, Assam",Cardiovascular
+R066,47,O+,Heart,"DR1, A1, DR3",26.87,None,Low,44,"Bhojpur, Madhya Pradesh",None
+R067,43,A-,Liver,"DR3, A2, A1",23.3,Hepatitis-negative,Low,37,"Amer, Rajasthan",Diabetes
+R068,23,AB+,Kidney,"DR3, DR2, A2",20.21,HIV-negative,Medium,304,"Bilaspur, Himachal Pradesh",None
+R069,44,AB-,Lung,"B1, A1, DR1",20.23,HIV-negative,Low,222,"Dhaulpur, Rajasthan",None
+R070,26,AB-,Kidney,"DR2, B1, B2",30.65,Hepatitis-negative,Medium,285,"Bhilai, Chhattisgarh",None
+R071,48,O+,Heart,"DR1, B2, B1",24.13,None,High,154,"Gandhinagar, Gujarat",Cardiovascular
+R072,66,B-,Lung,"DR3, B1, DR2",27.98,Hepatitis-negative,Medium,185,"Ambikapur, Chhattisgarh",Hypertension
+R073,21,AB+,Kidney,"B1, DR2, DR1",18.14,None,High,269,"Dharmapuri, Tamil Nadu",Hypertension
+R074,19,AB-,Kidney,"DR3, A1, B2",31.21,None,Low,360,"Ahmadnagar, Maharashtra",Diabetes
+R075,33,B-,Kidney,"A2, DR2, DR3",26.01,None,Medium,77,"Bokaro, Jharkhand",Diabetes
+R076,42,B-,Lung,"B1, DR3, DR1",23.26,Hepatitis-negative,High,337,"Chandigarh, Punjab",Diabetes
+R077,61,O+,Heart,"B1, A2, DR3",28.31,Hepatitis-negative,High,344,"Chhatarpur, Madhya Pradesh",Cardiovascular
+R078,68,A+,Liver,"A1, DR1, DR2",33.6,None,Low,57,"Bhopal, Madhya Pradesh",Cardiovascular
+R079,60,B+,Lung,"B1, DR2, DR3",26.8,HIV-negative,High,9,"Bhandara, Maharashtra",Diabetes
+R080,32,AB+,Liver,"DR3, DR2, B2",34.58,HIV-negative,High,101,"Hoshiarpur, Punjab",Cardiovascular
+R081,69,A-,Liver,"B2, B1, A1",32.24,None,Low,217,"Mahe, Puducherry",Diabetes
+R082,69,AB-,Liver,"DR1, B2, A1",30.69,HIV-negative,Medium,25,"Kolhapur, Maharashtra",None
+R083,47,AB-,Lung,"B1, B2, A2",31.52,HIV-negative,Low,160,"Kolhapur, Maharashtra",None
+R084,53,A+,Lung,"DR1, B2, A1",20.44,HIV-negative,High,44,"Balaghat, Madhya Pradesh",None
+R085,48,B+,Liver,"B1, A2, DR3",22.12,Hepatitis-negative,Medium,291,"Bhandara, Maharashtra",Hypertension
+R086,37,B+,Lung,"B1, DR3, B2",29.09,Hepatitis-negative,High,123,"Chhatarpur, Madhya Pradesh",Cardiovascular
+R087,41,B-,Kidney,"DR2, A2, DR1",25.98,HIV-negative,High,358,"Dharmapuri, Tamil Nadu",Hypertension
+R088,40,AB-,Heart,"B2, B1, DR1",22.76,Hepatitis-negative,High,218,"Konark, Odisha",Diabetes
+R089,54,A+,Heart,"A1, B1, A2",21.42,Hepatitis-negative,High,220,"Ara, Bihar",Cardiovascular
+R090,69,O-,Liver,"A2, B2, A1",28.42,HIV-negative,Low,140,"Shillong, Meghalaya",Cardiovascular
+R091,69,A-,Heart,"B2, DR3, A1",21.16,Hepatitis-negative,Low,221,"Bhilai, Chhattisgarh",Hypertension
+R092,56,AB-,Heart,"DR2, B1, A1",32.01,HIV-negative,High,163,"Dhule, Maharashtra",None
+R093,63,AB+,Heart,"B1, B2, A2",24.01,Hepatitis-negative,Low,290,"Badami, Karnataka",Hypertension
+R094,58,O-,Lung,"B1, DR2, DR3",27.82,None,Medium,177,"Akola, Maharashtra",Asthma
+R095,52,B-,Kidney,"DR3, A2, B1",21.23,HIV-negative,High,345,"Aurangabad, Maharashtra",None
+R096,35,O-,Kidney,"DR1, B2, A1",33.07,None,Medium,293,"Jalandhar, Punjab",Diabetes
+R097,19,AB-,Lung,"DR2, DR1, B2",20.37,Hepatitis-negative,Low,339,"Chhatarpur, Madhya Pradesh",Cardiovascular
+R098,56,A+,Heart,"DR2, DR3, A1",20.54,None,Low,157,"Bhopal, Madhya Pradesh",Cardiovascular
+R099,23,B+,Lung,"A2, DR3, DR2",27.82,HIV-negative,Low,44,"Ahmadabad, Gujarat",Asthma
+R100,44,O-,Liver,"B2, DR1, B1",22.75,Hepatitis-negative,Medium,71,"Barwani, Madhya Pradesh",Cardiovascular
+R101,21,A-,Heart,"B2, A1, B1",20.43,None,Low,157,"Balaghat, Madhya Pradesh",Asthma
+R102,50,B+,Heart,"DR3, A1, DR2",22.41,HIV-negative,High,125,"Itanagar, Arunachal Pradesh",None
+R103,52,B+,Liver,"B2, A2, A1",20.43,HIV-negative,High,298,"Barauni, Bihar",Asthma
+R104,32,B+,Liver,"DR3, B2, A1",28.45,None,Low,43,"Pune, Maharashtra",Cardiovascular
+R105,54,O+,Kidney,"A1, B2, A2",19.55,None,Medium,2,"Ambikapur, Chhattisgarh",Diabetes
+R106,51,B-,Lung,"B2, DR1, DR3",20.47,HIV-negative,High,30,"Mumbai, Maharashtra",Diabetes
+R107,58,O+,Liver,"DR1, B2, A1",32.59,None,High,121,"Bhojpur, Madhya Pradesh",None
+R108,37,A+,Kidney,"A1, DR2, B2",32.62,HIV-negative,Medium,52,"Kochi, Kerala",None
+R109,45,B+,Liver,"DR2, A2, B2",30.59,None,Low,128,"Mahe, Puducherry",Diabetes
+R110,19,O+,Liver,"A2, B2, DR2",20.78,None,Low,332,"Ambikapur, Chhattisgarh",Asthma
+R111,43,AB+,Lung,"B2, DR2, A1",27.6,Hepatitis-negative,Medium,212,"Itanagar, Arunachal Pradesh",Hypertension
+R112,27,B-,Lung,"B2, DR3, DR1",22.46,None,Low,31,"Jaisalmer, Rajasthan",None
+R113,67,O+,Heart,"DR2, A2, DR1",31.35,HIV-negative,Low,243,"Amritsar, Punjab",Hypertension
+R114,46,A-,Heart,"A1, DR3, A2",18.69,HIV-negative,High,343,"Firozpur, Punjab",Cardiovascular
+R115,57,A+,Lung,"A2, A1, B1",26.41,None,High,74,"Vatakara, Kerala",Hypertension
+R116,66,B+,Lung,"A1, DR1, A2",29.11,None,Low,149,"Dhaulpur, Rajasthan",Hypertension
+R117,32,B+,Heart,"DR3, DR2, DR1",33.53,HIV-negative,Low,138,"Kolhapur, Maharashtra",Hypertension
+R118,36,A-,Heart,"DR3, A2, A1",28.48,HIV-negative,High,39,"Vatakara, Kerala",Diabetes
+R119,55,AB-,Liver,"A1, DR3, B2",27.13,HIV-negative,Low,325,"Srinagar, Jammu and Kashmir",Cardiovascular
+R120,46,O+,Liver,"A1, DR2, B1",28.43,Hepatitis-negative,Low,286,"Patiala, Punjab",Diabetes
+R121,33,A-,Liver,"B1, DR2, A2",23.98,Hepatitis-negative,Low,228,"Badami, Karnataka",None
+R122,69,A+,Heart,"A1, B1, A2",32.97,None,Low,302,"Ambikapur, Chhattisgarh",Cardiovascular
+R123,39,AB+,Lung,"A2, DR1, B1",22.65,HIV-negative,High,13,"Jaipur, Rajasthan",Diabetes
+R124,56,O+,Lung,"DR3, A1, A2",33.43,None,High,344,"Bhilai, Chhattisgarh",Asthma
+R125,30,A+,Lung,"A2, A1, DR2",18.11,HIV-negative,Low,106,"Amravati, Maharashtra",Asthma
+R126,32,O+,Heart,"B2, DR2, A2",33.45,Hepatitis-negative,High,111,"Aurangabad, Maharashtra",Hypertension
+R127,57,B-,Heart,"DR3, B1, A2",34.79,Hepatitis-negative,Low,226,"Cherrapunji, Meghalaya",None
+R128,40,A-,Liver,"DR1, DR3, A1",20.2,HIV-negative,High,169,"Kanchipuram, Tamil Nadu",Cardiovascular
+R129,46,A-,Kidney,"A2, DR3, B1",34.08,None,Low,105,"Jaipur, Rajasthan",Diabetes
+R130,54,AB+,Liver,"DR3, A2, DR2",20.01,HIV-negative,Medium,137,"Chittaurgarh, Rajasthan",Hypertension
+R131,29,A+,Heart,"DR1, B1, B2",25.8,HIV-negative,High,50,"Balaghat, Madhya Pradesh",Asthma
+R132,42,A+,Kidney,"B1, A1, A2",31.57,Hepatitis-negative,Low,249,"Tiruppur, Tamil Nadu",Hypertension
+R133,21,AB-,Lung,"DR2, A2, B1",23.88,HIV-negative,Low,224,"Yanam, Puducherry",Hypertension
+R134,25,A+,Heart,"A2, B1, DR1",21.53,Hepatitis-negative,Medium,194,"Hoshiarpur, Punjab",Asthma
+R135,53,O+,Liver,"B2, DR1, B1",29.62,HIV-negative,Medium,168,"Itanagar, Arunachal Pradesh",Cardiovascular
+R136,33,O-,Liver,"DR1, A1, DR3",25.37,None,Low,118,"Gandhinagar, Gujarat",Hypertension
+R137,19,A+,Liver,"DR2, A2, A1",25.09,None,Low,362,"Amritsar, Punjab",None
+R138,52,A+,Lung,"DR1, B2, A1",18.76,None,Low,302,"Pune, Maharashtra",Hypertension
+R139,32,B-,Kidney,"DR1, A2, A1",28.1,Hepatitis-negative,Medium,258,"Yanam, Puducherry",Hypertension
+R140,25,A-,Lung,"DR3, A1, A2",30.77,None,Low,5,"Firozpur, Punjab",Asthma
+R141,38,A-,Kidney,"DR1, B1, A2",25.95,Hepatitis-negative,Low,241,"Baleshwar, Odisha",Asthma
+R142,46,O+,Lung,"DR3, B1, B2",34.93,HIV-negative,Low,45,"Bharatpur, Rajasthan",Hypertension
+R143,33,B-,Kidney,"A1, DR3, B1",28.7,Hepatitis-negative,Medium,69,"Ahmadnagar, Maharashtra",Hypertension
+R144,40,O+,Heart,"DR1, A2, A1",28.05,None,High,324,"Itanagar, Arunachal Pradesh",None
+R145,22,A+,Lung,"B2, DR1, B1",22.34,None,High,129,"Ajmer, Rajasthan",None
+R146,33,O-,Liver,"B2, DR1, B1",27.95,None,High,43,"Nagappattinam, Tamil Nadu",Hypertension
+R147,47,O-,Kidney,"B1, B2, DR3",20.63,HIV-negative,Low,148,"Konark, Odisha",Hypertension
+R148,37,B+,Kidney,"DR2, B2, DR1",23.16,HIV-negative,Medium,189,"Nabha, Punjab",Asthma
+R149,42,O-,Heart,"DR3, DR1, B2",33.42,HIV-negative,Low,146,"Kolhapur, Maharashtra",None
+R150,50,B-,Heart,"DR1, A2, A1",20.93,HIV-negative,Medium,338,"Guwahati, Assam",Asthma
+R151,24,O+,Lung,"A1, DR3, A2",32.35,None,Medium,260,"Amravati, Maharashtra",Hypertension
+R152,29,AB-,Heart,"A1, DR3, DR1",26.14,HIV-negative,Medium,25,"Amreli, Gujarat",Asthma
+R153,50,O+,Heart,"B2, DR2, B1",25.83,None,Low,228,"Bhojpur, Madhya Pradesh",None
+R154,29,B+,Lung,"DR2, DR3, B1",32.6,HIV-negative,Medium,325,"Barauni, Bihar",Hypertension
+R155,57,O+,Kidney,"DR1, DR2, A2",18.59,None,Low,224,"Madurai, Tamil Nadu",Diabetes
+R156,29,B+,Heart,"B1, DR3, DR2",30.56,None,High,9,"Alappuzha, Kerala",None
+R157,48,AB-,Liver,"DR3, A2, A1",22.95,HIV-negative,Medium,92,"Chaibasa, Jharkhand",None
+R158,24,O-,Heart,"DR3, DR2, B1",30.5,HIV-negative,Medium,148,"Dhule, Maharashtra",Diabetes
+R159,57,B+,Heart,"A1, DR1, B1",34.78,Hepatitis-negative,Medium,144,"Hoshiarpur, Punjab",Cardiovascular
+R160,32,AB+,Lung,"A1, B2, DR1",26.67,HIV-negative,High,183,"Mahe, Puducherry",None
+R161,18,B-,Lung,"DR3, A1, DR2",31.83,Hepatitis-negative,High,231,"Patiala, Punjab",Asthma
+R162,57,O-,Liver,"A1, A2, DR1",18.6,HIV-negative,High,299,"Chamba, Himachal Pradesh",None
+R163,19,A+,Kidney,"B2, DR3, B1",18.64,None,Low,126,"Nabha, Punjab",None
+R164,53,AB+,Lung,"B1, B2, A1",34.21,None,Medium,217,"Dhaulpur, Rajasthan",Hypertension
+R165,49,O-,Lung,"DR3, A2, A1",33.06,Hepatitis-negative,Low,100,"Idukki, Kerala",Asthma
+R166,28,A-,Heart,"DR3, B2, DR2",24.13,None,Low,47,"Kollam, Kerala",Cardiovascular
+R167,52,B-,Kidney,"DR3, DR2, DR1",28.81,None,Low,155,"Srinagar, Jammu and Kashmir",Asthma
+R168,35,A-,Liver,"B1, B2, DR1",19.38,HIV-negative,High,229,"Bhiwani, Haryana",Diabetes
+R169,56,AB-,Lung,"B1, A1, DR3",30.23,None,High,336,"Gandhinagar, Gujarat",Hypertension
+R170,67,B-,Lung,"A1, DR1, A2",28.74,None,Low,345,"Konark, Odisha",Hypertension
+R171,45,O+,Lung,"DR1, A1, B1",30.56,None,Medium,205,"Mahabaleshwar, Maharashtra",Hypertension
+R172,30,O-,Liver,"DR2, DR3, B2",32.25,HIV-negative,High,110,"Madurai, Tamil Nadu",Cardiovascular
+R173,19,A+,Kidney,"DR3, A1, DR1",31.41,Hepatitis-negative,Low,6,"Chhatarpur, Madhya Pradesh",Cardiovascular
+R174,69,B+,Kidney,"DR1, DR3, A2",29.91,None,Low,279,"Bengaluru, Karnataka",Hypertension
+R175,54,O-,Lung,"A1, DR3, DR2",34.69,HIV-negative,High,115,"Kolhapur, Maharashtra",Diabetes
+R176,30,O-,Lung,"B2, A2, A1",33.92,None,High,45,"Barwani, Madhya Pradesh",None
+R177,57,O-,Lung,"DR1, A1, A2",22.14,None,Medium,312,"Ahmadnagar, Maharashtra",Cardiovascular
+R178,24,B+,Liver,"A1, B1, A2",25.22,None,Medium,147,"Srinagar, Jammu and Kashmir",None
+R179,27,A-,Lung,"B2, B1, DR2",19.22,Hepatitis-negative,Low,4,"Bilaspur, Himachal Pradesh",Asthma
+R180,38,AB+,Kidney,"DR3, A2, B2",24.17,Hepatitis-negative,Medium,276,"Baleshwar, Odisha",Diabetes
+R181,35,O-,Kidney,"DR3, DR2, DR1",28.63,Hepatitis-negative,Medium,210,"Amer, Rajasthan",None
+R182,53,AB-,Kidney,"A1, DR3, DR1",33.8,Hepatitis-negative,High,116,"Mahabaleshwar, Maharashtra",Diabetes
+R183,22,B+,Heart,"DR3, DR2, B2",26.67,None,Low,347,"Chennai, Tamil Nadu",Asthma
+R184,23,AB-,Kidney,"A2, DR1, DR2",19.21,Hepatitis-negative,High,123,"Amreli, Gujarat",Cardiovascular
+R185,23,B+,Heart,"DR3, B2, DR2",26.34,None,Medium,354,"Ahmadnagar, Maharashtra",None
+R186,26,B-,Kidney,"B1, DR2, A1",19.04,HIV-negative,Medium,224,"Kochi, Kerala",Asthma
+R187,32,B-,Liver,"A1, DR2, B2",20.8,HIV-negative,Medium,280,"Dharmapuri, Tamil Nadu",Asthma
+R188,31,A+,Heart,"A2, DR1, DR2",21.5,HIV-negative,High,136,"Ahmadnagar, Maharashtra",None
+R189,46,AB+,Heart,"B2, DR3, DR2",23.03,None,High,51,"Dharmapuri, Tamil Nadu",Diabetes
+R190,47,B-,Liver,"DR2, DR3, B1",29.25,Hepatitis-negative,High,28,"Konark, Odisha",Hypertension
+R191,35,AB+,Liver,"B2, B1, DR3",29.47,Hepatitis-negative,Low,112,"Nabha, Punjab",Asthma
+R192,27,B-,Heart,"A1, DR1, DR2",31.59,None,High,118,"Chamba, Himachal Pradesh",None
+R193,60,AB+,Liver,"DR3, B1, A1",33.52,None,Low,50,"Bilaspur, Himachal Pradesh",None
+R194,25,AB-,Lung,"A1, DR2, B2",25.99,Hepatitis-negative,Low,32,"Kanchipuram, Tamil Nadu",Asthma
+R195,43,AB-,Lung,"B1, DR1, A2",25.11,Hepatitis-negative,Medium,219,"Balangir, Odisha",Diabetes
+R196,52,AB+,Lung,"DR3, A1, A2",22.28,Hepatitis-negative,Low,324,"Balaghat, Madhya Pradesh",Cardiovascular
+R197,21,B+,Liver,"A2, A1, B2",25.77,HIV-negative,Low,52,"Balaghat, Madhya Pradesh",Asthma
+R198,36,A+,Kidney,"DR1, B1, B2",32.69,HIV-negative,Medium,290,"Chandigarh, Punjab",Hypertension
+R199,55,O-,Lung,"DR1, B2, B1",23.38,None,Low,220,"Chandigarh, Punjab",Asthma
+R200,48,B+,Heart,"A1, B2, DR1",31.12,None,High,9,"Imphal, Manipur",Asthma
+R201,40,A+,Kidney,"A1, B8, DR3",25,None,High,120,"new york, new york",Hypertension
